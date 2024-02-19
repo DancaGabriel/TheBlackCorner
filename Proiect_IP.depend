@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673548258 source:d:\codeblocks proiecte\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
